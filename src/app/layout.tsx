@@ -4,8 +4,8 @@ import '~/app/globals.css';
 import { Providers } from '~/app/providers';
 
 export const metadata: Metadata = {
-  title: 'Farcaster Frames v2 Demo',
-  description: 'A Farcaster Frames v2 demo app',
+  title: 'Agify Frame',
+  description: 'A frame to guess your age based on your Farcaster name',
 };
 
 export default function RootLayout({
