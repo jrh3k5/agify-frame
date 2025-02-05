@@ -1,10 +1,11 @@
 import { useEffect, useCallback, useState } from 'react';
-import sdk, { type FrameContext } from '@farcaster/frame-sdk';
+import sdk from '@farcaster/frame-sdk';
+import type { Context } from '@farcaster/frame-core';
 import { lineGenerator } from '~/lib/line_generator';
 
 export default function Agify() {
   const [isSDKLoaded, setIsSDKLoaded] = useState(false);
-  const [context, setContext] = useState<FrameContext>();
+  const [context, setContext] = useState<Context.FrameContext>();
   const [isContextOpen, setIsContextOpen] = useState(false);
   const [userAge, setUserAge] = useState(null);
 
