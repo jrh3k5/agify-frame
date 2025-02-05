@@ -19,3 +19,7 @@ To develop within this project, you will need:
   * Note that you *will* need a paid ngrok subscription due to the interstitial page the free tier employs, which breaks frame previews
 * Navigate to the frames playground here: https://warpcast.com/~/developers/frames
   * When prompted, empty the URL provided by ngrok
+
+## Building the Application
+
+Run `yarn run build`. This will create an `out/` directory at the root of the project containing the static site assets to be deployed.
