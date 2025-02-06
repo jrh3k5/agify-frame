@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -129,9 +128,6 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
-=======
-node_modules
-.next
-.pnp.cjs
-agify-frame
->>>>>>> f0690a1 (get working with reading user context)
+
+# Ignore MacOS filesystem artifacts
+.DS_Store

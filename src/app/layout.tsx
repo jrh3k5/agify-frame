@@ -5,15 +5,15 @@ import { Providers } from '~/app/providers';
 
 const farcasterFrameMetadata = {
     "version": "next",
-    "imageUrl": "https://dtech.vision/frame-thumbnail.png",
+    "imageUrl": "https://agify-frame.orbiter.website/agify_600x400.png",
     "button": {
-      "title": "THE Farcaster product studio",
+      "title": "Guess My Age",
       "action": {
         "type": "launch_frame",
-        "name": "Learn Farcaster",
-        "url": "https://dtech.vision/farcaster/",
-        "splashImageUrl": "https://dtech.vision/splash.png",
-        "splashBackgroundColor": "#f7f7f7"
+        "name": "Guess My Age",
+        "url": "https://agify-frame.orbiter.website",
+        "splashImageUrl": "https://agify-frame.orbiter.website/agify_200x200.png",
+        "splashBackgroundColor": "#eeccff"
       }
     }
   };
