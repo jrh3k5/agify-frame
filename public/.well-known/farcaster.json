@@ -1,0 +1,18 @@
+{
+    "accountAssociation": {
+      "header": "eyJmaWQiOjk3MDIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgzQURFNjM1Njg1RmMyNzBBNTBFRDU1MDI2Njc1MjAwMjRiOWEwRjQ0In0",
+      "payload": "eyJkb21haW4iOiJhZ2lmeS1mcmFtZS5vcmJpdGVyLndlYnNpdGUifQ",
+      "signature": "MHhiNGMwNjc5ZjRhYmNhMGI2NGIyYWNiNmIzZGNkMThmNTBmMDlmMWY4MGJjZjA3NWFiYWY2ZGNlZmNlMDVkYjM0MGYyOTFjNTdkZWQ3Njg0OGQxOWM3YzY3MmJkZjA5YjhkZmU5MDMwZDU4ZDdmZDZiNmUxZjBkMGU1ZmU3MGVhMDFi"
+    },
+    "frame": {
+      "version": "1",
+      "name": "Guess My Age",
+      "iconUrl": "https://agify-frame.orbiter.website/agify_100x100.png",
+      "homeUrl": "https://agify-frame.orbiter.website",
+      "imageUrl": "https://agify-frame.orbiter.website/agify_600x400.png",
+      "buttonTitle": "Guess My Age!",
+      "splashImageUrl": "https://agify-frame.orbiter.website/agify_200x200.png",
+      "splashBackgroundColor": "#eeccff",
+      "webhookUrl": "https://agify-frame.orbiter.website/api/webhook"
+    }
+  }

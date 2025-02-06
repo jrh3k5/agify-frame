@@ -2,6 +2,8 @@
 
 This is a Farcaster frame that will try to guess someone's age based on their name.
 
+Images were generated using https://cooltext.com.
+
 ## Development
 
 ### Prerequisites

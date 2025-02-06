@@ -1,0 +1,12 @@
+body {
+    background-color: #eeccff;
+}
+
+#guess {
+    color: black;
+    background-color: white;
+    border-radius: 1em;
+    padding: 1em;
+    font-weight: 500;
+    font-size: 1.75em;
+}
