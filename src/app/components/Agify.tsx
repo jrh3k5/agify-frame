@@ -36,10 +36,10 @@ export default function Agify() {
   }
 
   return (
-    <div className="w-[300px] mx-auto py-4 px-2">
-      <h1 className="text-2xl font-bold text-center mb-4">Guess Your Age</h1>
+    <div>
+      <img src="/agify_600x400.png" alt="Agify" />
 
-      <div className="mb-4">
+      <div id="guess">
         {lineGenerator(userAge)}
       </div>
     </div>
